@@ -1,6 +1,6 @@
 # Hello, I'm TastyBulb
 
-[![HitCount](https://views.whatilearened.today/views/github/TastyBulb/)](https://github.com/TastyBulb/creative-profile-readme)
+[![HitCount](https://views.whatilearened.today/views/github/TastyBulb/TastyBulb)](https://github.com/TastyBulb/TastyBulb)
 
 ## I have one rule:
 ## NO CHEETO, NO TALK

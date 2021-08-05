@@ -14,7 +14,7 @@
 ## Projects I'm currently working on:
 ### Asylum Client -- Didn't make a Github page for it so you can stop searching for it in my profile's repository tab
 
-## I DON'T TOLERATE YOU COPYING MY PROFILE'S README.md EVEN THOUGH I COPIED THIS README.md FROM SOMEONE ELSE
+## Hamood Spelt Backwards Is Hamood
 ### I'm SERIOUS
 
 ## Do you want to invite me to a project? 

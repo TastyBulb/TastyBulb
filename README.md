@@ -3,19 +3,23 @@
 [![HitCount](https://views.whatilearened.today/views/github/TastyBulb/TastyBulb.svg)](https://github.com/TastyBulb/TastyBulb)
 
 ## I have one rule:
-## NO CHEETO, NO TALK
+## ONE AT A TIME LADIES
 
 ---
 # ABOUT ME
 
-## I have Big PP but Small Brain..
-### That's why I can impress your mom and not you.
+## I eat cheeto
+### 666
 
 ## Projects I'm currently working on:
-### Asylum Client -- Didn't make a Github page for it so you can stop searching for it in my profile's repository tab
+### Asylum Client -- 1.12.2 Utility Mod made for anarchy servers.
+##### I don't take responsibility if you get banned for using it on servers where cheating isn't allowed.
+
+### TastyBot -- He will make you go AHHHHHHHH!
+##### Not available in China.
 
 ## Hamood Spelt Backwards Is Hamood
 ### I'm SERIOUS
 
-## Do you want to invite me to a project? 
-### idk leave a message at one of my repository's issues tab
+## My discord:
+### TastyBulb#7554
